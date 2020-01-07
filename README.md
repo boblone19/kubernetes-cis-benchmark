@@ -22,19 +22,3 @@ On the Kubernetes 1.8 federation nodes,
 ```
 $ ./federation.sh 1.8 
 
-
-For the Kubernetes version other than 1.8, you can use CIS Kubernetes Benchmark 1.6.
-
-On the Kubernetes 1.6 master nodes,
-```
-$ ./master.sh 1.6
-```
-
-On the Kubernetes 1.6 worker nodes,
-```
-$ ./worker.sh 1.6
-```
-
-On the Kubernetes 1.6 federation nodes,
-```
-$ ./federation.sh 1.6 
