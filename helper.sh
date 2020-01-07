@@ -23,11 +23,11 @@ yell () {
 }
 
 yell "# ------------------------------------------------------------------------------
-# Kubernetes CIS benchmark
+# Kubernetes CIS benchmark 2020 Version
 #
-# NeuVector, Inc. (c) 2016-
+# Based on NeuVector's Version
 #
-# NeuVector delivers an application and network intelligent container security
+# Script delivers an application and network intelligent container security
 # solution that automatically adapts to protect running containers. Don’t let
 # security concerns slow down your CI/CD processes.
 # ------------------------------------------------------------------------------"
